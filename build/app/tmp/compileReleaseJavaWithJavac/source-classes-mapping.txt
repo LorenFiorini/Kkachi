@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/hextools/personality_test/BuildConfig.java
+ com.hextools.personality_test.BuildConfig
